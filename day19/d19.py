@@ -26,7 +26,8 @@ for index in range (len(D)):
         start=f+1
         f=S.find(D[index],start)
     start=0
-print len(U)
+print (len(U))
+#print(U)
         
         
         
